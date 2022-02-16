@@ -20,8 +20,8 @@ trajectories = []
 frame_idx = 0
 
 
-#cap = cv2.VideoCapture(0)
-cap = cv2.VideoCapture("Prueba_interior.avi")
+cap = cv2.VideoCapture(0)
+#cap = cv2.VideoCapture("Prueba_interior.avi")
 
 while True:
 
